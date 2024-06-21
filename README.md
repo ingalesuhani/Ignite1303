@@ -1,2 +1,1 @@
-# Ignite1303
-This repository is for practicing the GitHub Flow.
+Object Detection using vision transformers
